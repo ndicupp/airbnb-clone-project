@@ -1,32 +1,56 @@
 # airbnb-clone-project
 The Airbnb Clone Project is a comprehensive, real-world application designed to simulate the development of a robust booking platform like Airbnb. It involves a deep dive into full-stack development, focusing on backend systems, database design, API development, and application security.
-# #Team role
-1. Backend Developer
-Brief Description: The Backend Developer is responsible for building the server-side logic, application programming interfaces (APIs), and core functionality that power the frontend. They are the engine room of the application, handling data processing, business logic, and integration.
+## Team roles
+1. Project Manager (PM)
+Brief Description: The Project Manager is the leader and central point of communication for the project. They are responsible for guiding the project from conception to completion, ensuring it is delivered on time, within budget, and meets the defined scope and quality standards.
 
 Key Responsibilities:
 
-Designing, developing, and maintaining the server-side application and its APIs.
+Creating and managing the project plan, timeline, and budget.
 
-Implementing business logic and application workflows.
+Coordinating all team members and stakeholders.
 
-Integrating the application with other web services and third-party APIs.
+Managing risks, issues, and changes to the project scope.
 
-Ensuring performance, scalability, and security of the backend system.
+Facilitating communication between the technical team and the client.
 
-Collaborating with Frontend Developers to ensure data is delivered correctly and efficiently.
+Tracking progress and reporting on project status.
 
-2. Database Administrator (DBA)
-Brief Description: The Database Administrator is the guardian and optimizer of the project's data. They design, implement, and maintain the database systems to ensure data is stored securely, efficiently, and is highly available.
+2. Business Analyst (BA)
+Brief Description: The Business Analyst acts as a bridge between the client's business needs and the technical team's solutions. They translate high-level ideas into detailed, actionable requirements.
 
 Key Responsibilities:
 
-Designing and implementing the database schema (tables, indexes, relationships).
+Eliciting and documenting business and functional requirements.
 
-Ensuring data integrity, security, and privacy (managing access controls).
+Creating user stories, use cases, and process flow diagrams.
 
-Optimizing database performance through query tuning and indexing.
+Ensuring the proposed solution aligns with business goals.
 
-Setting up backup, recovery, and disaster mitigation strategies.
+Clarifying requirements for the development team and answering their questions.
 
-Planning for database growth and scalability.
+3. Solution Architect / Technical Lead
+Brief Description: This role is the technical visionary for the project. They design the high-level structure of the system (the "architecture"), ensuring it is robust, scalable, secure, and aligns with business objectives.
+
+Key Responsibilities:
+
+Selecting the appropriate technology stack and platforms.
+
+Designing the overall system architecture and key components.
+
+Making high-level design choices and enforcing technical standards.
+
+Guiding the development team on technical implementation and best practices.
+
+4. Backend Developer
+Brief Description: The Backend Developer builds and maintains the server-side logic, databases, and application programming interfaces (APIs) that power the frontend. They focus on the functionality, performance, and scalability of the application's core.
+
+Key Responsibilities:
+
+Developing the server, database, and application logic.
+
+Creating and integrating APIs for the frontend to consume.
+
+Implementing data storage solutions and ensuring business logic is correct.
+
+Focusing on security, performance, and responsiveness of the backend services.
