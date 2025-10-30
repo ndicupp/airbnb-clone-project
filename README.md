@@ -1,6 +1,6 @@
 # airbnb-clone-project
 The Airbnb Clone Project is a comprehensive, real-world application designed to simulate the development of a robust booking platform like Airbnb. It involves a deep dive into full-stack development, focusing on backend systems, database design, API development, and application security.
-# Team role
+# #Team role
 1. Backend Developer
 Brief Description: The Backend Developer is responsible for building the server-side logic, application programming interfaces (APIs), and core functionality that power the frontend. They are the engine room of the application, handling data processing, business logic, and integration.
 
